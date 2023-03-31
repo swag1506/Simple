@@ -1,0 +1,71 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+.sayt
+{
+    width: 1200px;
+    height: 600px;
+    background-color: rgba(41, 39, 39, 0.843);
+    margin: auto;
+}
+
+h2
+{
+    float: left;
+    color: white;
+    margin-top: 20px;
+    margin-left: 40px;
+}
+
+h2:hover
+{
+    text-decoration: line-through red;
+
+}
+
+.navbar
+{
+    width: 1200xp;
+    height: 80px;
+
+}
+
+ .navbar ul
+{
+    list-style: none;
+    height: 100%;
+    float: left;
+    margin-left: 440px;
+}
+
+ 
+.navbar ul li
+{
+    float: left;
+    margin-right: 20px;
+    height: 100%;
+}
+
+.navbar ul li a
+{   margin-top: 20px;
+    display: block;
+    text-decoration: none;
+    color: rgb(244, 238, 238);
+    line-height: 40px;
+    width: 100px;
+    text-align: center;
+    border-right: 1px solid white;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.navbar ul li a:hover
+{
+    background-color: white;
+    color: black;
+}
+
+
